@@ -1,0 +1,101 @@
+[
+    {
+        "id": 1,
+        "nombre": "Goomba Azul",
+        "precio": 100,
+        "d_corta": "Soldado principal del ejército de Bowser. Este Goomba es de color azul y brilla en la oscuridad.",
+        "d_larga": "Fabricado con beads de 5 mm.",
+        "stock": 3,
+        "subcategoria": "SMB1",
+        "imagenT": "../imagenes/Videojuegos/SMB1/GoombaAzul.png",
+        "imagen": "../imagenes/Videojuegos/SMB1/GoombaAzulBrillante.png"
+    }, 
+    {
+        "id": 2,
+        "nombre": "Goomba Rosa",
+        "precio": 100,
+        "d_corta": "Soldado principal del ejército de Bowser. Este Goomba es de color rosa y brilla en la oscuridad.",
+        "d_larga": "Fabricado con beads de 5 mm.",
+        "stock": 3,
+        "subcategoria": "SMB1",
+        "imagenT": "../imagenes/Videojuegos/SMB1/GoombaRosa.png",
+        "imagen": "../imagenes/Videojuegos/SMB1/GoombaRosaBrillante.png"
+    }, 
+    {
+        "id": 3,
+        "nombre": "Sonic",
+        "precio": 100,
+        "d_corta": "Sonic el Erizo.",
+        "d_larga": "Basado en el primer juego de Sonic. Fabricado con beads de 5 mm.",
+        "stock": 3,
+        "subcategoria": "Sonic",
+        "imagenT": "../imagenes/Videojuegos/Sonic.png",
+        "imagen": "../imagenes/Videojuegos/Sonic.png"
+    },
+    {
+        "id": 4,
+        "nombre": "Knuckles",
+        "precio": 100,
+        "d_corta": "Knuckles el Equidna.",
+        "d_larga": "El guerrero más poderoso del universo de Sonic. Fabricado con beads de 5 mm.",
+        "stock": 3,
+        "subcategoria": "Sonic",
+        "imagenT": "../imagenes/Videojuegos/Sonic.png",
+        "imagen": "../imagenes/Videojuegos/Sonic.png"
+    },
+    {
+        "id": 5,
+        "nombre": "Tails",
+        "precio": 100,
+        "d_corta": "Tails el Zorro.",
+        "d_larga": "Capaz de colar con sus colitas, el mejor amigo de Sonic. Fabricado con beads de 5 mm.",
+        "stock": 3,
+        "subcategoria": "Sonic",
+        "imagenT": "../imagenes/Videojuegos/Sonic.png",
+        "imagen": "../imagenes/Videojuegos/Sonic.png"
+    },
+    {
+        "id": 6,
+        "nombre": "Legión de exploración",
+        "precio": 100,
+        "d_corta": "Logo de la Legión de exploración.",
+        "d_larga": "Legión que pelea con los Titanes afuera y dentro de las murallas. Fabricado con beads de 5 mm.",
+        "stock": 3,
+        "subcategoria": "AttackOnTitan",
+        "imagenT": "../imagenes/Animes/AttackOnTitan.png",
+        "imagen": "../imagenes/Animes/AttackOnTitan.png"
+    }, 
+    {
+        "id": 7,
+        "nombre": "Tanjiro",
+        "precio": 100,
+        "d_corta": "Tanjiro Kamado.",
+        "d_larga": "Cazademonios Tanjiro Kamado con su katana negra. Fabricado con beads de 5 mm.",
+        "stock": 3,
+        "subcategoria": "DemonSlayer",
+        "imagenT": "../imagenes/Animes/DemonSlayer.png",
+        "imagen": "../imagenes/Animes/DemonSlayer.png"
+    }, 
+    {
+        "id": 8,
+        "nombre": "Rick Sánchez",
+        "precio": 100,
+        "d_corta": "Rick Sánchez.",
+        "d_larga": "Científico loco. Fabricado con beads de 5 mm.",
+        "stock": 3,
+        "subcategoria": "RickYMorty",
+        "imagenT": "../imagenes/Caricaturas/RickYMorty.png",
+        "imagen": "../imagenes/Caricaturas/RickYMorty.png"
+    },
+    {
+        "id": 9,
+        "nombre": "Jake",
+        "precio": 100,
+        "d_corta": "Jake El Perro.",
+        "d_larga": "Hermano y mejor amigo de Finn. Fabricado con beads de 5 mm",
+        "stock": 3,
+        "subcategoria": "HoraDeAventura",
+        "imagenT": "../imagenes/Caricaturas/HoraDeAventura.png",
+        "imagen": "../imagenes/Caricaturas/HoraDeAventura.png"
+    }
+]

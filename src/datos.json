@@ -1,0 +1,112 @@
+[
+    {
+      "id": 1,
+      "nombre": "Super Mario Bros. 1",
+      "precio": 100,
+      "descripcion":
+        "Videojuego de plataformas, diseñado por Shigeru Miyamoto, lanzado el 13 de septiembre de 1985.",
+      "stock": 3,
+      "categoria": "Videojuegos",
+      "subcategoria": "SMB1",
+      "imagen": "../imagenes/Videojuegos/MarioBros1Logo.png"
+    }, 
+    {
+        "id": 2,
+        "nombre": " Attack On Titan",
+        "precio": 100,
+        "descripcion":
+          "Shingeki no Kyojin, es una serie de manga japonesa escrita e ilustrada por Hajime Isayama.",
+        "stock": 3,
+        "categoria": "Animes",
+        "subcategoria": "AttackOnTitan",
+        "imagen": "../imagenes/Animes/AttackOnTitan.png"
+    }, 
+    {
+        "id": 3,
+        "nombre": "Hora de aventura",
+        "precio": 100,
+        "descripcion":
+            "Hora de Aventura, es una serie animada de televisión estadounidense creada por Pendleton Ward.",
+        "stock": 3,
+        "categoria": "Caricaturas",
+        "subcategoria": "HoraDeAventura",
+        "imagen": "../imagenes/Caricaturas/HoraDeAventura.png"
+    },
+    {
+        "id": 4,
+        "nombre": "Minecraft",
+        "precio": 100,
+        "descripcion":
+            "Colección de personajes del juego de Minecraft.",
+        "stock": 3,
+        "categoria": "3Ds",
+        "subcategoria": "3Ds",
+        "imagen": "../imagenes/3Ds/3DPrincipal.jpg"
+    },
+    {
+        "id": 5,
+        "nombre": "Arte",
+        "precio": 100,
+        "descripcion":
+            "Obras de arte clásicas ahora en forma pixelada.",
+        "stock": 3,
+        "categoria": "Cuadros",
+        "subcategoria": "Cuadros",
+        "imagen": "../imagenes/Cuadros/CuadrosArte/ArtePrincipal.jpeg"
+    },
+    {
+        "id": 6,
+        "nombre": "Sonic The Hedgehog",
+        "precio": 100,
+        "descripcion":
+            "El primer videojuego del personaje, Sonic the Hedgehog, fue creado en 1991.",
+        "stock": 3,
+        "categoria": "Videojuegos",
+        "subcategoria": "Sonic",
+        "imagen": "../imagenes/Videojuegos/Sonic.png"
+    }, 
+    {
+        "id": 7,
+        "nombre": "Demon Slayer",
+        "precio": 100,
+        "descripcion":
+        "Kimetsu no Yaiba, es una serie de manga escrita e ilustrada por Koyoharu Gotōge, cuya publicación comenzó el 15 de febrero de 2016.",
+        "stock": 3,
+        "categoria": "Animes",
+        "subcategoria": "DemonSlayer",
+        "imagen": "../imagenes/Animes/DemonSlayer.png"
+    }, 
+    {
+        "id": 8,
+        "nombre": "Rick y Morty",
+        "precio": 100,
+        "descripcion":
+        "Es una serie de televisión americana de animación para adultos creada por Justin Roiland y Dan Harmon en 2013.",
+        "stock": 3,
+        "categoria": "Caricaturas",
+        "subcategoria": "RickYMorty",
+        "imagen": "../imagenes/Caricaturas/RickYMorty.png"
+    },
+    {
+        "id": 9,
+        "nombre": "Super Mario",
+        "precio": 100,
+        "descripcion":
+        "Colección de personajes y artefactos de las diferentes versiones de Super Mario Bros.",
+        "stock": 3,
+        "categoria": "3Ds",
+        "subcategoria": "3Ds",
+        "imagen": "../imagenes/3Ds/3DMarioPrincipal.png"
+    },
+    {
+        "id": 10,
+        "nombre": "Cuadros Super Mario",
+        "precio": 100,
+        "descripcion":
+        "Cuadros con la temática de Super Mario Bros.",
+        "stock": 3,
+        "categoria": "Cuadros",
+        "subcategoria": "Cuadros",
+        "imagen": "../imagenes/Cuadros/CuadrosPrincipal.png"
+    }
+]
