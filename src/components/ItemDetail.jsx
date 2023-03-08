@@ -4,7 +4,7 @@ import {Center, Card, CardBody, Image, Stack, Heading, Text, Button, CardFooter,
   import ItemCount from "./ItemCount";
   
   const ItemDetail = ({ pixeles }) => {
-    const { id } = useParams();
+    const { id, count } = useParams();
   
     const pixelFilter = pixeles.filter((pixel) => pixel.id == id);
     return (
@@ -37,7 +37,11 @@ import {Center, Card, CardBody, Image, Stack, Heading, Text, Button, CardFooter,
                 <CardFooter className="card-footer">
                   <ItemCount stock={pixel.stock} />
                   <Center className="btn-center">
-                    <Button variant="solid" colorScheme="blue">
+                    <Button variant="solid" colorScheme="blue"
+                      onClick={() => {
+                        console.log("Agregado al carrito")
+                        console.log(count)
+                      }}>
                       Agregar al carrito
                     </Button>
                   </Center>
